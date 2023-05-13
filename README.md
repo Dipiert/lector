@@ -15,5 +15,8 @@ Ambas sesiones serán grabadas y subidas al canal de YouTube de la comunidad.
 ## Estamos leyendo: "Code: The Hidden Language of Computer Hardware and Software"
 Próxima reunión: 3 de junio - 18hs
 
+## Qué significa "lector"?
+LEcturas sobre Código, Tecnología y Otros Recursos
+
 ## Contacto
 dipiert@gmail.com
